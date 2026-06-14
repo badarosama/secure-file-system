@@ -107,6 +107,10 @@ d_n = hash(r_n || d_{n-1})
 ```
 where `r_n` is the operation record (timestamp, operation type, merkle root). The chain head is verified against the server on **every operation** -- not just manual checks. If the server attempts a replay attack or serves stale data, the mismatch is detected immediately.
 
+## Background
+
+This project was originally built as a final project for [MIT 6.858 Computer Systems Security](https://css.csail.mit.edu/6.858/). The original design writeup is in [`docs/writeup.pdf`](docs/writeup.pdf).
+
 ## Project Structure
 
 ```

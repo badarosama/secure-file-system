@@ -1,6 +1,6 @@
 # Secure Encrypted File System
 
-A userspace encrypted file system built on Merkle trees with support for secure file sharing and fork consistency. Designed as a study in applied cryptography and secure systems design.
+A userspace encrypted file system built on Merkle trees with support for secure file sharing and fork consistency. Designed as part of my final project for computer security class.
 
 ## Architecture
 

@@ -109,7 +109,6 @@ where `r_n` is the operation record (timestamp, operation type, merkle root). Th
 
 ## Background
 
-This project was originally built as a final project for [MIT 6.858 Computer Systems Security](https://css.csail.mit.edu/6.858/). The original design writeup is in [`docs/writeup.pdf`](docs/writeup.pdf).
 
 ## Project Structure
 
